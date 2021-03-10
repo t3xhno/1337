@@ -2,6 +2,6 @@
 
 - JS generator functions (progress)
 - HTML tags:
-    - <fieldset></fieldset>
-    - <legend></legend>
-    - <datalist></datalist>
+    - fieldset
+    - legend
+    - datalist
